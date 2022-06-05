@@ -1,1 +1,1 @@
-20210153, seoyoung Yoon, Computer Science
+20210153, seoyoung Yoon, School of Software
